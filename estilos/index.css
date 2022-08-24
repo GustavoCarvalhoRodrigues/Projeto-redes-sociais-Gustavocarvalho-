@@ -43,14 +43,14 @@ section#celular{
 #celular > img{
     position: absolute;
     top: 1em;
-    left: 18%;
+    left: 15%;
     width: 270px;
     height: 527px;
 }
 iframe{
     position: relative;
     top: -20em;
-    left: 18%;
+    left: 15%;
     margin: 20px;
     width: 231px;
     height: 397px;
